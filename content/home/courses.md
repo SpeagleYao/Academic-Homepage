@@ -26,25 +26,25 @@ item:
 - certificate_url: https://www.coursera.org
   date_end: ""
   date_start: "2019-08-01"
-  description: ""
+  description: "Learn fundamental knowledge of DL and finish all homework on jupyter notebook."
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Deep learning Specialization
   url: ""
 
   #certificate_url: https://www.edx.org
-- date_end: "2019-01-31"
-  date_start: "2019-09-01"
-  description: ""
+- date_end: "2020-01-31"
+  date_start: "2020-09-01"
+  description: "Learn applications of DL in multiple fields and complete a project using RNN."
   organization: SJTU
   organization_url: http://en.sjtu.edu.cn/
   title: Deep Learning and Its Applications
   url: http://thinklab.sjtu.edu.cn/teaching.html
 
 # certificate_url: https://www.datacamp.com
-- date_end: "2019-03-01"
-  date_start: "2019-06-30"
-  description: ""
+- date_end: "2020-03-01"
+  date_start: "2020-06-30"
+  description: "Learn various of algorithms in ML and complete a project using DNN models."
   organization: SJTU
   organization_url: http://en.sjtu.edu.cn/
   title: Machine learning (AI)
