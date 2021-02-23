@@ -43,7 +43,7 @@ item:
 
 # certificate_url: https://www.datacamp.com
 - date_end: "2019-03-01"
-  date_start: "2017-06-30"
+  date_start: "2019-06-30"
   description: ""
   organization: SJTU
   organization_url: http://en.sjtu.edu.cn/
