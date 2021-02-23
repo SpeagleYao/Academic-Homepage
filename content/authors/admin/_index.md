@@ -64,8 +64,9 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My name is Yao Yiran, a junior from Shanghai Jiao Tong University.
+I love doing research and look forward to becoming a Phd student in the future.
+My research focus is mainly on Adversarial Learning. I have got a complete research experience in this field and committed a paper as the third author to CVPR. 
+I'm looking for self-funded summer research intern opportunity in 2021 summer.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
