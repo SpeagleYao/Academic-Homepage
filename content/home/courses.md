@@ -44,9 +44,17 @@ item:
 # certificate_url: https://www.datacamp.com
 - date_end: "2020-03-01"
   date_start: "2020-06-30"
-  description: "Learn various of algorithms in ML and complete a project using DNN models."
+  description: "Learn various of algorithms in ML and complete a project using DCNN models."
   organization: SJTU
   organization_url: http://en.sjtu.edu.cn/
   title: Machine learning (AI)
+  url: ""
+
+- date_end: "2020-03-01"
+  date_start: "2020-06-30"
+  description: "Learn various of algorithms in RL and complete a project using DQN and PPO."
+  organization: SJTU
+  organization_url: http://en.sjtu.edu.cn/
+  title: Reinforcement Learning
   url: ""
 ---
