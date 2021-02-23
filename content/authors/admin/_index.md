@@ -65,8 +65,12 @@ highlight_name: false
 ---
 
 My name is Yao Yiran, a junior from Shanghai Jiao Tong University.
+
 I love doing research and look forward to becoming a Phd student in the future.
+
 My research focus is mainly on Adversarial Learning. I have got a complete research experience in this field and committed a paper as the third author to CVPR. 
+
 I'm looking for self-funded summer research intern opportunity in 2021 summer.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
