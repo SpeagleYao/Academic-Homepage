@@ -6,7 +6,7 @@ title: Yao Yiran
 superuser: true
 
 # Role/position/tagline
-role: Junior Undergraduate
+role: Undergraduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
