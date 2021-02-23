@@ -27,7 +27,7 @@ education:
   courses:
   - course: Undergraduate
     institution: Shanghai Jiao Tong University University
-    year: 2018-2021
+    year: 2018-2022
 #   - course: MEng in Artificial Intelligence
 #     institution: Massachusetts Institute of Technology
 #     year: 2009
