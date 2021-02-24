@@ -62,15 +62,23 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+# 我所写的自我介绍最好全部能展现出和phd所需的相关特质
 ---
 
-My name is Yao Yiran, a junior from Shanghai Jiao Tong University.
+My name is Yao Yiran, a junior undergraduate from Shanghai Jiao Tong University.
+
+I love thinking about how to solve a hard but intriguing problem. Since my childhood, I have learned and attended mathematic competitions. When I was in high school, I came across coding and then attended OI competition through self studying. I gradually find out that I may be a research-type person.
+
+After entering college, I got crushed on AI. I learned several courses about AI, which all achieve high scores. 
+I also attended Mathematic Competition in Modeling two years in a roll and learned a simplified process of how to make a paper.
+Till then, I was prepared for entering real research.
+
+My research focus is mainly on Adversarial Learning. I have got a complete research experience in this field and committed a paper as the third author to CVPR. I also have a research experience about MLN Infer and has written a paper as the fourth author. You can see details in Publication part.
 
 I love doing research and look forward to becoming a Phd student in the future.
 
-My research focus is mainly on Adversarial Learning. I have got a complete research experience in this field and committed a paper as the third author to CVPR. 
-
-I'm looking for self-funded summer research intern opportunity in 2021 summer.
+Now, I'm looking for a self-funded summer research intern opportunity in 2021 summer.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
