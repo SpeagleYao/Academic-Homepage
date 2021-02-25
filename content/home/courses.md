@@ -23,18 +23,17 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://drive.google.com/file/d/1H1d4n5NNGIZsfnyK88E1sbS6sDFZe_pd/view?usp=sharing
   date_end: "2019-10-31"
   date_start: "2019-08-01"
-  description: >- 
-    Learn fundamental knowledge of DL and finish all homework on jupyter notebook.
-    
-    [Test Link](https://www.google.com)
-
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Deep learning Specialization
   url: ""
+  description: >- 
+    * Learn basic knowledge on DNN, CNN, RNN, etc.
+    
+    * Do [Code Project](#projects) on Jupyter Notebook
 
   #certificate_url: https://www.edx.org
 - date_end: "2020-01-31"
