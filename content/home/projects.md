@@ -1,7 +1,7 @@
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
+widget: accomplishments
 
 # This file represents a page section.
 headless: true
@@ -12,37 +12,55 @@ weight: 40
 title: Code Projects
 subtitle: ''
 
-content:
-  # Page type to display. E.g. project.
-  page_type: project
+# Date format
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
-  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 0
+# Accomplishments.
+#   Add/remove as many `item` blocks below as you like.
+#   `title`, `organization`, and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+item:
+- certificate_url: ''
+  date_end: "2020-06-30"
+  date_start: "2020-03-01"
+  organization: SJTU
+  organization_url: http://en.sjtu.edu.cn/
+  title: 2048 Game
+  url: ""
+  description: >- 
+    * Construct a Deep Convolution Neural Network to play 2048 Game
+    
+    * Implement Ensemble Learning to improve performance
 
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`filter_button` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-  - name: All
-    tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+    * Got a full score in the final check
 
-design:
-  # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+    * [Open Source Code](https://github.com/SpeagleYao/2048-api) on Github
 
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   5 = Showcase
-  view: 2
+  #certificate_url: https://www.edx.org
+- date_end: "2020-01-31"
+  date_start: "2020-09-01"
+  description: "Learn applications of DL in multiple fields and complete a project using RNN."
+  organization: SJTU
+  organization_url: http://en.sjtu.edu.cn/
+  title: Deep Learning and Its Applications
+  url: http://thinklab.sjtu.edu.cn/teaching.html
 
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+# certificate_url: https://www.datacamp.com
+- date_end: "2020-03-01"
+  date_start: "2020-06-30"
+  description: "Learn various of algorithms in ML and complete a project using DCNN models."
+  organization: SJTU
+  organization_url: http://en.sjtu.edu.cn/
+  title: Machine learning (AI)
+  url: ""
+
+- date_end: "2020-03-01"
+  date_start: "2020-06-30"
+  description: "Learn various of algorithms in RL and complete a project using DQN and PPO."
+  organization: SJTU
+  organization_url: http://en.sjtu.edu.cn/
+  title: Reinforcement Learning
+  url: ""
 ---
