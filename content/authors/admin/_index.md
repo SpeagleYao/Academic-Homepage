@@ -85,4 +85,4 @@ Now, I'm looking for a self-funded summer research intern opportunity in 2021 su
 
 You can also contact me to send you my score list.
 
-Updated 02/24/2021
+Updated 02/25/2021
