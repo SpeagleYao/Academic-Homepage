@@ -30,13 +30,13 @@ item:
     date_start: '2019-01-24'
     date_end: '2019-01-28'
     description: >-
-      * Be Designated As Successful Participant
+    * Be Designated As Successful Participant
 
-      * Restore the possible Ecology of Dragons in reality
+    * Restore the possible Ecology of Dragons in reality
 
-      * Introduce factors such as geographical location, weather and characteristic to enrich the model
+    * Introduce factors such as geographical location, weather and characteristic to enrich the model
 
-      * Put forward the strategy of coexistence between human society and dragons
+    * Put forward the strategy of coexistence between human society and dragons
 
   - organization: COMAP
     organization_url: 'https://www.comap.com/undergraduate/contests/'
@@ -46,11 +46,11 @@ item:
     date_start: '2020-02-14'
     date_end: '2020-02-18'
     description: >-
-      * Be Designated As Meritorious Winner
+    * Be Designated As Meritorious Winner
 
-      * Predict the sea surface temperature in next 50 years
+    * Predict the sea surface temperature in next 50 years
 
-      * Speculate on how temperature changes affect fishery
+    * Speculate on how temperature changes affect fishery
 
-      * Provide fishermen with strategies from the perspective of long-term profit
+    * Provide fishermen with strategies from the perspective of long-term profit
 ---
