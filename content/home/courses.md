@@ -26,7 +26,10 @@ item:
 - certificate_url: https://www.coursera.org
   date_end: "2019-10-31"
   date_start: "2019-08-01"
-  description: "Learn fundamental knowledge of DL and finish all homework on jupyter notebook."
+  description: >- 
+    Learn fundamental knowledge of DL and finish all homework on jupyter notebook.
+    [Test Link](www.google.com)
+
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Deep learning Specialization
