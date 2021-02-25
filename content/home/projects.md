@@ -38,6 +38,8 @@ item:
 
     * [Open Source Code](https://github.com/SpeagleYao/2048-api) on Github
 
+    * <a href="https://github.com/SpeagleYao/2048-api" target="_blank">Open Source Code</a> on Github
+
 - certificate_url: ''
   date_end: "2020-06-30"
   date_start: "2020-03-01"
