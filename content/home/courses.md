@@ -38,26 +38,30 @@ item:
   #certificate_url: https://www.edx.org
 - date_end: "2020-01-31"
   date_start: "2020-09-01"
-  description: "Learn applications of DL in multiple fields and complete a project using RNN."
   organization: SJTU
   organization_url: http://en.sjtu.edu.cn/
   title: Deep Learning and Its Applications
   url: http://thinklab.sjtu.edu.cn/teaching.html
+  description: >- 
+    * Learn applications of DL in multiple fields and complete a project using RNN.
 
 # certificate_url: https://www.datacamp.com
 - date_end: "2020-03-01"
   date_start: "2020-06-30"
-  description: "Learn various of algorithms in ML and complete a project using DCNN models."
   organization: SJTU
   organization_url: http://en.sjtu.edu.cn/
   title: Machine learning (AI)
   url: ""
+  description: >- 
+    * Learn various of algorithms in ML and complete a project using DCNN models.
 
 - date_end: "2020-03-01"
   date_start: "2020-06-30"
-  description: "Learn various of algorithms in RL and complete a project using DQN and PPO."
   organization: SJTU
   organization_url: http://en.sjtu.edu.cn/
   title: Reinforcement Learning
   url: ""
+  description: >- 
+    * Learn various of algorithms in RL and complete a project using DQN and PPO.
+    
 ---
