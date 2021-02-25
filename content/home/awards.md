@@ -38,8 +38,8 @@ item:
     date_start: '2020-02-14'
     date_end: '2020-02-18'
     description: >-
-      Be Designated As Meritorious Winner
-      Predict the sea surface temperature in next 50 years
-      Speculate on how temperature changes affect fishery
-      Provide fishermen with strategies from the perspective of long-term profit
+      * Be Designated As Meritorious Winner
+      * Predict the sea surface temperature in next 50 years
+      * Speculate on how temperature changes affect fishery
+      * Provide fishermen with strategies from the perspective of long-term profit
 ---
