@@ -38,29 +38,75 @@ item:
 
     * [Open Source Code](https://github.com/SpeagleYao/2048-api) on Github
 
-  #certificate_url: https://www.edx.org
-- date_end: "2020-01-31"
-  date_start: "2020-09-01"
-  description: "Learn applications of DL in multiple fields and complete a project using RNN."
+- certificate_url: ''
+  date_end: "2020-06-30"
+  date_start: "2020-03-01"
   organization: SJTU
   organization_url: http://en.sjtu.edu.cn/
-  title: Deep Learning and Its Applications
-  url: http://thinklab.sjtu.edu.cn/teaching.html
-
-# certificate_url: https://www.datacamp.com
-- date_end: "2020-03-01"
-  date_start: "2020-06-30"
-  description: "Learn various of algorithms in ML and complete a project using DCNN models."
-  organization: SJTU
-  organization_url: http://en.sjtu.edu.cn/
-  title: Machine learning (AI)
+  title: Atari \& MuJoCo
   url: ""
+  description: >- 
+    * Implement Deep Q Network to play Breakout in Atari Games
+    
+    * Implement Proximal Policy Optimization to control the Hopper and Ant in MuJoCo
 
-- date_end: "2020-03-01"
-  date_start: "2020-06-30"
-  description: "Learn various of algorithms in RL and complete a project using DQN and PPO."
+    * Write a document to show the results and discuss my thoughts about the algorithms
+
+- certificate_url: ''
+  date_end: "2020-06-30"
+  date_start: "2020-03-01"
   organization: SJTU
   organization_url: http://en.sjtu.edu.cn/
-  title: Reinforcement Learning
+  title: Context-Free Grammar Compiler
   url: ""
+  description: >- 
+    * A program that can detect Operator Grammar
+    
+    * Automatically output an Operator precedence analysis table
+
+    * Write a design and test manual
+
+- certificate_url: ''
+  date_end: "2020-01-10"
+  date_start: "2019-09-01"
+  organization: SJTU
+  organization_url: http://en.sjtu.edu.cn/
+  title: Melody Generation
+  url: ""
+  description: >- 
+    * Melody Generation Using Seq2Seq Model with Attention
+    
+    * Recur a rather novel model in the task
+
+    * Introduce chord rules into the model
+
+    * Collaborate with classmates to complete a course paper
+
+- certificate_url: ''
+  date_end: "2019-10-31"
+  date_start: "2019-08-01"
+  organization: coursera
+  organization_url: https://www.coursera.org
+  title: Deep Learning Specialization
+  url: ""
+  description: >- 
+    * Use Numpy to build basic Neural Network structure
+    
+    * Learn how to use frameworks including PyTorch and TensorFlow
+
+- certificate_url: ''
+  date_end: "2019-08-31"
+  date_start: "2019-06-01"
+  organization: SJTU
+  organization_url: http://en.sjtu.edu.cn/
+  title: Game Theory
+  url: ""
+  description: >- 
+    * Research on the Evolution of Game under long-term memory
+    
+    * Establish a mathematical model to simulate the prisoner's dilemma with long-term memory
+
+    * Cellular Automata is used as one of the models
+
+    * Collaborate with classmates to complete a 30-page course paper
 ---
