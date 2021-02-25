@@ -28,7 +28,8 @@ item:
   date_start: "2019-08-01"
   description: >- 
     Learn fundamental knowledge of DL and finish all homework on jupyter notebook.
-    [Test Link](www.google.com)
+    
+    [Test Link](https://www.google.com)
 
   organization: Coursera
   organization_url: https://www.coursera.org
