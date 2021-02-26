@@ -52,6 +52,8 @@ item:
     date_start: '2020-08-01'
     date_end: '2021-02-26'
     description: >-
+      ![plp_img](/img/plp_img.jpg)
+
       * Propose a provenance-based approach towards identifying influential inputs in PLP programs
 
       * Evaluate the system in a visual question answering scenario and demonstrate its effectiveness
