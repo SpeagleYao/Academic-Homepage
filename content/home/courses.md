@@ -35,7 +35,7 @@ item:
 
     * Learn how to set parameters correctly to improve accuracy
     
-    * Learn basic knowlegde of Computer Vision and Natural language processing
+    * Learn basic knowlegde of Computer Vision and Natural Language Processing
 
     * Complete several [Projects](#projects) on Jupyter Notebook to practice and apply what I have learned
 

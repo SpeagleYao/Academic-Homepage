@@ -102,8 +102,16 @@ item:
   # TODO: 写的详细一点 把写了的部分都展示出来
   description: >- 
     * Use Numpy to build basic Neural Network structure block by block
+
+    * Exercise various skills in model training
+
+    * Learn how to use TensorFlow framework
     
-    * Learn how to use frameworks including PyTorch and TensorFlow
+    * Exercise how to detect and fix bugs in real applications
+
+    * Exercise the theory and applications of Computer Vision
+
+    * Exercise the theory and applications of Natural Language Processing
 
 - certificate_url: ''
   date_end: "2019-08-31"
