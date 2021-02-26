@@ -29,7 +29,6 @@ item:
   organization_url: http://en.sjtu.edu.cn/
   title: 2048 Game
   url: ""
-  # 打算在这里放上移一张2048游戏图 如果可以是gif那就更好了
   description: >- 
     ![demo](/img/preview2048.gif)
 
@@ -77,7 +76,6 @@ item:
   organization_url: http://en.sjtu.edu.cn/
   title: Melody Generation
   url: ""
-  # 这里可以放上model的seq-to-seq的结构
   description: >- 
     ![seq_pic](/img/seq_to_seq_model.png)
 

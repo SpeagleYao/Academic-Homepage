@@ -2,14 +2,15 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
+
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
 weight: 30
 
-title: 'Research'
-subtitle:
+title: Research
+subtitle: ''
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -29,7 +30,6 @@ item:
   organization_url: http://en.sjtu.edu.cn/
   title: On Symmetry Property in Adversarial Examples
   url: ""
-  # 打算在这里放上移一张2048游戏图 如果可以是gif那就更好了
   description: >- 
     * Discover an intriguing phenomenon in adversarial examples
 
@@ -50,12 +50,11 @@ item:
   organization_url: http://en.sjtu.edu.cn/
   title: Identifying Influential Inputs in Probabilistic Logic Programming
   url: ""
-  # 这里可以放上Atari Breakout Game 和 Mujoco 的图片
   description: >- 
     * Propose a provenance-based approach towards identifying influential inputs in PLP programs
-    
+
     * Evaluate the system in a visual question answering scenario and demonstrate its effectiveness
 
     * Ready to submit a paper to VLDB2021 as the fourth author
-
+    
 ---
