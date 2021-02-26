@@ -37,7 +37,7 @@ item:
     
     * Learn basic knowlegde of Computer Vision and Natural language processing
 
-    * Do [Code Project](#projects) on Jupyter Notebook
+    * Complete several [Projects](#projects) on Jupyter Notebook to practice and apply what I have learned
 
   #certificate_url: https://www.edx.org
 - date_end: "2020-01-31"
