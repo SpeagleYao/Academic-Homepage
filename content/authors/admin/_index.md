@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: Undergraduate
-    institution: Shanghai Jiao Tong University University
+    institution: Shanghai Jiao Tong University
     year: 2018-2022
 #   - course: MEng in Artificial Intelligence
 #     institution: Massachusetts Institute of Technology
