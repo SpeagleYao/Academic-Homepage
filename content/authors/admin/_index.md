@@ -81,7 +81,7 @@ I love doing research and look forward to becoming a Phd student in the future.
 Now, I'm looking for a self-funded summer research intern opportunity in 2021 summer.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/yaoyiran_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/yaoyiran_cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
 
 You can also contact me to send you my score list.
 
