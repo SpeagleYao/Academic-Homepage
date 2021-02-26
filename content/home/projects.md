@@ -47,8 +47,6 @@ item:
   organization_url: http://en.sjtu.edu.cn/
   title: Atari \& MuJoCo
   url: ""
-  # 这里可以放上Atari Breakout Game 和 Mujoco 的图片
-  # TODO: 把两张图片p在一起
   description: >- 
     ![a_m](/img/a_m.jpg)
 
