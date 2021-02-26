@@ -9,21 +9,21 @@ headless: true
 # Order that this section appears on the page.
 weight: 25
 
-title: Skills
+title: Brief Introduction
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+- description: ''
+  icon: brain
   icon_pack: fas
-  name: Statistics
+  name: Love Thinking
+- description: ''
+  icon: smile-wink
+  icon_pack: fas
+  name: Optimism
 - description: 10%
   icon: camera-retro
   icon_pack: fas
