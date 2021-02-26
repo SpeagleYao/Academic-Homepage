@@ -32,7 +32,7 @@ item:
   description: >- 
     ![demo](/img/preview2048.gif)
 
-    * Construct a Deep Convolution Neural Network to play 2048 Game
+    * Construct a Deep Convolutional Neural Network to play 2048 Game
     
     * Implement Ensemble Learning to improve performance
 
@@ -94,6 +94,7 @@ item:
   organization_url: https://www.coursera.org
   title: Deep Learning Specialization
   url: ""
+  # 写的详细一点 把写了的部分都展示出来
   description: >- 
     * Use Numpy to build basic Neural Network structure
     
