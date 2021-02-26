@@ -22,13 +22,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - organization: COMAP
-    organization_url: 'https://www.comap.com/undergraduate/contests/'
+  - organization: with Prof. Bingbing Ni
+    organization_url: 'https://scholar.google.com/citations?hl=zh-CN\&user=eUbmKwYAAAAJ'
     title: On Symmetry Property in Adversarial Examples
     url: ''
     certificate_url: ''
-    date_start: '2020-11-30'
-    date_end: '2020-09-01'
+    date_start: '2020-09-01'
+    date_end: '2020-11-30'
     description: >-
       * Discover an intriguing phenomenon in adversarial examples
 
@@ -42,21 +42,19 @@ item:
 
       * <a href="https://github.com/SpeagleYao/Symmetry-Property" target="_blank">Open Source Code</a> on Github
 
-  - organization: COMAP
-    organization_url: 'https://www.comap.com/undergraduate/contests/'
-    title: The Mathematical Contest in Modeling 2020
+  - organization: with Prof. Wenchao Zhou
+    organization_url: 'http://people.cs.georgetown.edu/~wzhou/'
+    title: Identifying Influential Inputs in Probabilistic Logic Programming
     url: ''
     certificate_url: ''
-    date_start: '2020-02-14'
-    date_end: '2020-02-18'
+    date_start: '2020-08-01'
+    date_end: '2021-02-26'
     description: >-
-      * Be designated as Meritorious Winner
+      * Propose a provenance-based approach towards identifying influential inputs in PLP programs
 
-      * Predict the sea surface temperature in the next 50 years
+      * Evaluate the system in a visual question answering scenario and demonstrate its effectiveness
 
-      * Speculate on how temperature changes will affect fishery
-
-      * Provide fishermen with strategies from the perspective of long-term profit
+      * Ready to submit a paper to VLDB2021 as the fourth author
 
 # item:
 # - certificate_url: ''
