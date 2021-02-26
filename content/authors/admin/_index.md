@@ -70,9 +70,9 @@ My name is Yao Yiran, a junior undergraduate from Shanghai Jiao Tong University.
 
 I love thinking about how to solve hard but intriguing problems. Since my childhood, I have learned Mathematical Olympiad and participated in lots of math competitions. When I was in high school, I came across coding in class, which has the same fun as Math. Feeling obsessed, I learned C++, data structures and algorithms by myself, and participated in Olympiad in Informatics. Thinking about these tricky problems and come up with exquisite solutions always give me enormous joy. It is during this period of time, with the gradual deepening understanding of my own characteristics, I regard myself suitable for doing scientific research in the future.
 
-After entering college, I got crushed on AI. I learned several courses about AI, which all achieve high scores. 
-I also attended Mathematic Competition in Modeling two years in a roll and learned a simplified process of how to make a paper.
-Till then, I was prepared for entering real research.
+After entering college, I heard about AI. With sufficient mathematical knowledge, I learned Deep Learning Specialization on Coursera in my first summer vacation. I was arrested by the simplicity and powerfulness of AI. Thus, in the following year, I took several courses about AI in school and also read some AI-related articles and papers. I learned about Adversarial Learning and was deeply attracted by it. AI, so powerful as it looks on surface, is also so fragile. If we can figure out why AI is fragile and how to make it robust, we may have a deeper understanding of how AI works.
+
+At the beginning of my junior year, I began to do research in adversarial learning. I started easily and smoothly due to my experience of paricipating in the Mathematical Contest in Modeling for two times, the basic knowledge of AI and exercises from all coding projects. I felt so refreshing thinking and doing experiments everyday, watching the performance of models improve bit by bit. My will for pursuing a PhD becomes more firmly. 
 
 My research focus is mainly on Adversarial Learning. I have got a complete research experience in this field and committed a paper as the third author to CVPR. I also have a research experience about MLN Infer and has written a paper as the fourth author. You can see details in Publication part.
 
