@@ -64,12 +64,11 @@ email: ""
 highlight_name: false
 
 # 我所写的自我介绍最好全部能展现出和phd所需的相关特质
-# TODO: 把这一整段好好写...
 ---
 
 My name is Yao Yiran, a junior undergraduate from Shanghai Jiao Tong University.
 
-I love thinking about how to solve a hard but intriguing problem. Since my childhood, I have learned and attended mathematic competitions. When I was in high school, I came across coding and then attended OI competition through self studying. I gradually find out that I may be a research-type person.
+I love thinking about how to solve hard but intriguing problems. Since my childhood, I have learned Mathematical Olympiad and participated in lots of math competitions. When I was in high school, I came across coding in class, which has the same fun as Math. Feeling obsessed, I learned C++, data structures and algorithms by myself, and participated in Olympiad in Informatics. Thinking about these tricky problems and come up with exquisite solutions always give me enormous joy. It is during this period of time, with the gradual deepening understanding of my own characteristics, I regard myself suitable for doing scientific research in the future.
 
 After entering college, I got crushed on AI. I learned several courses about AI, which all achieve high scores. 
 I also attended Mathematic Competition in Modeling two years in a roll and learned a simplified process of how to make a paper.
