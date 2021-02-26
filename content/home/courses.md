@@ -31,6 +31,7 @@ item:
   title: Deep learning Specialization
   url: ""
   description: >- 
+    
     * Learn basic knowledge of Neural Networks including DNN, CNN, RNN, etc.
 
     * Learn how to set parameters correctly to improve accuracy
@@ -47,6 +48,7 @@ item:
   title: Deep Learning and Its Applications
   url: http://thinklab.sjtu.edu.cn/teaching.html
   description: >- 
+    
     * Learn applications of DL in multiple fields
 
     * Listen to lectures on cutting-edge techs in computer vision
@@ -63,6 +65,7 @@ item:
   title: Machine learning (AI)
   url: ""
   description: >- 
+    
     * Learn various of algorithms in ML
 
     * Completed a code tutorial on how to use sklearn, Keras, PyTorch
@@ -76,6 +79,7 @@ item:
   title: Reinforcement Learning
   url: ""
   description: >- 
+    
     * Learn various of algorithms in RL
 
     * Write code using taught algorithms to solve given problems

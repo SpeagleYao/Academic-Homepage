@@ -32,6 +32,7 @@ item:
   description: >- 
     ![demo](/img/preview2048.gif)
     <br/>
+    
     * Construct a Deep Convolutional Neural Network to play 2048 Game
     
     * Implement Ensemble Learning to improve performance
@@ -50,6 +51,7 @@ item:
   description: >- 
     ![a_m](/img/a_m.jpg)
     <br/>
+    
     * Implement Deep Q Network to play Breakout in Atari Games
     
     * Implement Proximal Policy Optimization to control the Hopper and Ant in MuJoCo
@@ -64,6 +66,7 @@ item:
   title: Context-Free Grammar Compiler
   url: ""
   description: >- 
+    
     * A program that can detect Operator Grammar
     
     * Automatically output an Operator precedence analysis table
@@ -80,6 +83,7 @@ item:
   description: >- 
     ![seq_pic](/img/seq_to_seq_model.png)
     <br/>
+    
     * Melody Generation Using Seq2Seq Model with Attention
     
     * Recur a rather novel model in the task
@@ -96,6 +100,7 @@ item:
   title: Deep Learning Specialization
   url: ""
   description: >- 
+    
     * Use Numpy to build basic Neural Network structure block by block
 
     * Exercise various skills in model training
@@ -116,6 +121,7 @@ item:
   title: Game Theory
   url: ""
   description: >- 
+    
     * Research the Evolution of Game with long-term memory
     
     * Establish a mathematical model to simulate the prisoner's dilemma
