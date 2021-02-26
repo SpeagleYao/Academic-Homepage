@@ -49,6 +49,9 @@ item:
   url: ""
   # 这里可以放上Atari Breakout Game 和 Mujoco 的图片
   description: >- 
+    ![atari](/img/atari.jpg)
+    ![mujoco](/img/mujoco.jpg)
+
     * Implement Deep Q Network to play Breakout in Atari Games
     
     * Implement Proximal Policy Optimization to control the Hopper and Ant in MuJoCo
