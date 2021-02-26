@@ -30,13 +30,15 @@ item:
     date_start: '2020-09-01'
     date_end: '2020-11-30'
     description: >-
+      ![sym_img](/img/symmetry_img.png)
+
       * Discover an intriguing phenomenon in adversarial examples
 
       * Design a novel loss function to improve robustness
 
       * Achieve SOTA performance even compared to Adversarial Training
 
-      * Submit a paper to CVPR2021 as the third author
+      * Submit the paper to CVPR2021 as the third author
 
       * Personal Contribution : Run most of experiments and propose the final version of loss function
 
@@ -54,7 +56,7 @@ item:
 
       * Evaluate the system in a visual question answering scenario and demonstrate its effectiveness
 
-      * Ready to submit a paper to VLDB2021 as the fourth author
+      * Ready to submit the paper to VLDB2021 as the fourth author
 
 # item:
 # - certificate_url: ''
