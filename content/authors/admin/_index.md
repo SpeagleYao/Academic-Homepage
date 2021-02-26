@@ -72,13 +72,11 @@ I love thinking about how to solve hard but intriguing problems. Since my childh
 
 After entering college, I heard about AI. With sufficient mathematical knowledge, I learned Deep Learning Specialization on Coursera in my first summer vacation. I was arrested by the simplicity and powerfulness of AI. Thus, in the following year, I took several courses about AI in school and also read some AI-related articles and papers. I learned about Adversarial Learning and was deeply attracted by it. AI, so powerful as it looks on surface, is also so fragile. If we can figure out why AI is fragile and how to make it robust, we may have a deeper understanding of how AI works.
 
-At the beginning of my junior year, I began to do research in adversarial learning. I started easily and smoothly due to my experience of paricipating in the Mathematical Contest in Modeling for two times, the basic knowledge of AI and exercises from all coding projects. I felt so refreshing thinking and doing experiments everyday, watching the performance of models improve bit by bit. My will for pursuing a PhD becomes more firmly. 
+At the beginning of my junior year, I began to do research in adversarial learning. I started easily and smoothly due to my experience of paricipating in the Mathematical Contest in Modeling for two times, the basic knowledge of AI and exercises from all coding projects. I felt so refreshing thinking and doing experiments everyday, watching the performance of models improve bit by bit. My will for pursuing a PhD becomes more firmly.
 
-My research focus is mainly on Adversarial Learning. I have got a complete research experience in this field and committed a paper as the third author to CVPR. I also have a research experience about MLN Infer and has written a paper as the fourth author. You can see details in Publication part.
+Now, I have got a complete research experience in Adversarial Learning, in which I carried out experiments completely, and also participated in the design of the method and writing of the paper. I am currently still working in this field and looking forward to getting more research opportunities abroad.
 
-I love doing research and look forward to becoming a Phd student in the future.
-
-Now, I'm looking for a self-funded summer research intern opportunity in 2021 summer.
+**To sum up, I love doing research. I am looking forward to becoming a PhD student in the future and I am looking for a self-funded summer research intern opportunity in 2021 summer.**
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/yaoyiran_cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
