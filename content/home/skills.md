@@ -35,19 +35,22 @@ feature:
   icon_pack: fas
   name: Good at self-study
 
-- description: Python, C/C++, Git, MATLAB, R
+- description: >-
+    Python, C/C++
+    
+    Git, MATLAB, R
   icon: keyboard
   icon_pack: fas
   name: Programming
 - description: >-
     Numpy, Matplotlib  
 
-    Pytorch, TensorFlow, Keras
+    PyTorch, TensorFlow, Keras
   icon: python
   icon_pack: fab
   name: Python Libraries
 - description: >-
-    Windows, Mac, Ubuntu  
+    Windows, MacOS, Ubuntu  
     
     VS Code, Visual Studio, Jupyter Notebook
   icon: laptop-code

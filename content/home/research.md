@@ -42,7 +42,7 @@ item:
 
       * Submit the paper to CVPR2021 as the third author
 
-      * Personal Contribution : Run most of experiments and propose the final version of loss function
+      * Personal Contribution: Run most of the experiments and propose the final version of the loss function
 
       * <a href="https://github.com/SpeagleYao/Symmetry-Property" target="_blank">Open Source Code</a> on Github
 
@@ -54,7 +54,7 @@ item:
     date_start: '2020-08-01'
     date_end: '2021-02-26'
     description: >-
-    
+
       ![plp_img](/img/plp_img.jpg)
       <br/>
       

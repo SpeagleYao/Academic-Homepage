@@ -34,7 +34,7 @@ item:
 
       * Restore the possible ecology of dragons in reality
 
-      * Introduce factors such as geographical location, weather and characteristic to enrich the model
+      * Introduce factors such as geographical location, weather, and characteristic to enrich the model
 
       * Put forward the strategy of coexistence between human society and dragons
 

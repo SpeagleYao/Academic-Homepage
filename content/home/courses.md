@@ -36,7 +36,7 @@ item:
 
     * Learn how to set parameters correctly to improve accuracy
     
-    * Learn basic knowlegde of Computer Vision and Natural Language Processing
+    * Learn basic knowledge of Computer Vision and Natural Language Processing
 
     * Complete several [Projects](#projects) on Jupyter Notebook to practice and apply what I have learned
 
@@ -55,7 +55,7 @@ item:
 
     * Complete the Assignment 1 \& 2 of [CS231n](http://cs231n.stanford.edu/assignments.html)
 
-    * Complete a [Project](#projects) using RNN to generate melody
+    * Complete a [Project](#projects) using RNN to generate a melody
 
 # certificate_url: https://www.datacamp.com
 - date_end: "2020-03-01"
@@ -66,11 +66,11 @@ item:
   url: ""
   description: >- 
     
-    * Learn various of algorithms in ML
+    * Learn various algorithms in ML
 
     * Completed a code tutorial on how to use sklearn, Keras, PyTorch
 
-    * Complete a [Project](#projects) using DCNN models to play 2048 game
+    * Complete a [Project](#projects) using DCNN models to play the 2048 game
 
 - date_end: "2020-03-01"
   date_start: "2020-06-30"
@@ -80,7 +80,7 @@ item:
   url: ""
   description: >- 
     
-    * Learn various of algorithms in RL
+    * Learn various algorithms in RL
 
     * Write code using taught algorithms to solve given problems
 

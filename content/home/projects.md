@@ -37,7 +37,7 @@ item:
     
     * Implement Ensemble Learning to improve performance
 
-    * Got a full score in the final check
+    * Achieve a full score in the final check
 
     * <a href="https://github.com/SpeagleYao/2048-api" target="_blank">Open Source Code</a> on Github
 
@@ -56,7 +56,7 @@ item:
     
     * Implement Proximal Policy Optimization to control the Hopper and Ant in MuJoCo
 
-    * Write a document to show the results and discuss about the algorithms
+    * Write a document to show the results and express my thinkings about the algorithms
 
 - certificate_url: ''
   date_end: "2020-06-30"
@@ -105,7 +105,7 @@ item:
 
     * Exercise various skills in model training
 
-    * Learn how to use TensorFlow framework
+    * Learn how to use the TensorFlow framework
     
     * Exercise how to detect and fix bugs in real applications
 
