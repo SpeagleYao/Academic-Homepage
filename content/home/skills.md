@@ -24,10 +24,26 @@ feature:
   icon: smile-wink
   icon_pack: fas
   name: Optimism
-- description: 10%
-  icon: camera-retro
+- description: ''
+  icon: book
   icon_pack: fas
-  name: Photography
+  name: Good at self-study
+
+- description: Python, C/C++, Git, MATLAB, R
+  icon: keyboard
+  icon_pack: fas
+  name: Programming
+- description: 'Numpy, Pytorch, Matplotlib, TensorFlow, Keras'
+  icon: python
+  icon_pack: fab
+  name: Python Libraries
+- description: >-
+    VS Code, Visual Studio, Jupyter Notebook
+    
+    Windows, Mac, Ubuntu
+  icon: laptop-code
+  icon_pack: fas
+  name: Environment
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
