@@ -29,7 +29,10 @@ item:
   organization_url: http://en.sjtu.edu.cn/
   title: 2048 Game
   url: ""
+  # 打算在这里放上移一张2048游戏图 如果可以是gif那就更好了
   description: >- 
+    ![demo](images/preview2048.gif)
+
     * Construct a Deep Convolution Neural Network to play 2048 Game
     
     * Implement Ensemble Learning to improve performance
@@ -45,12 +48,13 @@ item:
   organization_url: http://en.sjtu.edu.cn/
   title: Atari \& MuJoCo
   url: ""
+  # 这里可以放上Atari Breakout Game 和 Mujoco 的图片
   description: >- 
     * Implement Deep Q Network to play Breakout in Atari Games
     
     * Implement Proximal Policy Optimization to control the Hopper and Ant in MuJoCo
 
-    * Write a document to show the results and discuss my thoughts about the algorithms
+    * Write a document to show the results and discuss about the algorithms
 
 - certificate_url: ''
   date_end: "2020-06-30"
@@ -73,6 +77,7 @@ item:
   organization_url: http://en.sjtu.edu.cn/
   title: Melody Generation
   url: ""
+  # 这里可以放上model的seq-to-seq的结构
   description: >- 
     * Melody Generation Using Seq2Seq Model with Attention
     
@@ -102,9 +107,9 @@ item:
   title: Game Theory
   url: ""
   description: >- 
-    * Research on the Evolution of Game under long-term memory
+    * Research the Evolution of Game with long-term memory
     
-    * Establish a mathematical model to simulate the prisoner's dilemma with long-term memory
+    * Establish a mathematical model to simulate the prisoner's dilemma
 
     * Cellular Automata is used as one of the models
 
