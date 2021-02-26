@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: ''
+- description: '  '
   icon: brain
   icon_pack: fas
   name: Love Thinking
-- description: ''
+- description: '  '
   icon: smile-wink
   icon_pack: fas
   name: Optimism
-- description: ''
+- description: '  '
   icon: book
   icon_pack: fas
   name: Good at self-study
@@ -33,14 +33,17 @@ feature:
   icon: keyboard
   icon_pack: fas
   name: Programming
-- description: 'Numpy, Pytorch, Matplotlib, TensorFlow, Keras'
+- description: >-
+    Numpy, Matplotlib
+
+    Pytorch, TensorFlow, Keras
   icon: python
   icon_pack: fab
   name: Python Libraries
 - description: >-
-    VS Code, Visual Studio, Jupyter Notebook
-    
     Windows, Mac, Ubuntu
+    
+    VS Code, Visual Studio, Jupyter Notebook
   icon: laptop-code
   icon_pack: fas
   name: Environment

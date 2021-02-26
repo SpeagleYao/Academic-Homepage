@@ -19,7 +19,7 @@ organizations:
 # Interests to show in About widget
 interests:
 - Adversarial Learning
-- Robustness in Machine Learning
+- Robustness in ML
 - Computer Vision
 
 # Education to show in About widget
