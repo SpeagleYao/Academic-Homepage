@@ -31,7 +31,7 @@ item:
   url: ""
   # 打算在这里放上移一张2048游戏图 如果可以是gif那就更好了
   description: >- 
-    ![demo](images/preview2048.gif)
+    ![demo](./images/preview2048.gif)
 
     * Construct a Deep Convolution Neural Network to play 2048 Game
     
