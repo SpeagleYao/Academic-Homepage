@@ -31,7 +31,7 @@ item:
   url: ""
   description: >- 
     ![demo](/img/preview2048.gif)
-    \\
+    <br/>
     * Construct a Deep Convolutional Neural Network to play 2048 Game
     
     * Implement Ensemble Learning to improve performance
@@ -49,7 +49,7 @@ item:
   url: ""
   description: >- 
     ![a_m](/img/a_m.jpg)
-    \\
+    <br/>
     * Implement Deep Q Network to play Breakout in Atari Games
     
     * Implement Proximal Policy Optimization to control the Hopper and Ant in MuJoCo
@@ -79,7 +79,7 @@ item:
   url: ""
   description: >- 
     ![seq_pic](/img/seq_to_seq_model.png)
-    \\
+    <br/>
     * Melody Generation Using Seq2Seq Model with Attention
     
     * Recur a rather novel model in the task

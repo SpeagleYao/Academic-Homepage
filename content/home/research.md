@@ -31,7 +31,7 @@ item:
     date_end: '2020-11-30'
     description: >-
       ![sym_img](/img/symmetry_img.png)
-      \\
+      <br/>
       * Discover an intriguing phenomenon in adversarial examples
 
       * Design a novel loss function to improve robustness
@@ -53,7 +53,7 @@ item:
     date_end: '2021-02-26'
     description: >-
       ![plp_img](/img/plp_img.jpg)
-      \\
+      <br/>
       * Propose a provenance-based approach towards identifying influential inputs in PLP programs
 
       * Evaluate the system in a visual question answering scenario and demonstrate its effectiveness
