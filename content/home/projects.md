@@ -48,9 +48,10 @@ item:
   title: Atari \& MuJoCo
   url: ""
   # 这里可以放上Atari Breakout Game 和 Mujoco 的图片
+  # TODO: 把两张图片p在一起
   description: >- 
     ![atari](/img/atari.jpg)
-    
+
     ![mujoco](/img/mujoco.jpg)
 
     * Implement Deep Q Network to play Breakout in Atari Games
@@ -98,9 +99,9 @@ item:
   organization_url: https://www.coursera.org
   title: Deep Learning Specialization
   url: ""
-  # 写的详细一点 把写了的部分都展示出来
+  # TODO: 写的详细一点 把写了的部分都展示出来
   description: >- 
-    * Use Numpy to build basic Neural Network structure
+    * Use Numpy to build basic Neural Network structure block by block
     
     * Learn how to use frameworks including PyTorch and TensorFlow
 

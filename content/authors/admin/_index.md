@@ -64,6 +64,7 @@ email: ""
 highlight_name: false
 
 # 我所写的自我介绍最好全部能展现出和phd所需的相关特质
+# TODO: 把这一整段好好写
 ---
 
 My name is Yao Yiran, a junior undergraduate from Shanghai Jiao Tong University.
