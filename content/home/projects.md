@@ -56,7 +56,7 @@ item:
     
     * Implement Proximal Policy Optimization to control the Hopper and Ant in MuJoCo
 
-    * Write a document to show the results and express my thinkings about the algorithms
+    * Write a document to show the results and express my thinking about the algorithms
 
 - certificate_url: ''
   date_end: "2020-06-30"
