@@ -32,7 +32,7 @@ item:
     description: >-
       * Be designated as Successful Participant
 
-      * Restore the possible Ecology of Dragons in reality
+      * Restore the possible ecology of dragons in reality
 
       * Introduce factors such as geographical location, weather and characteristic to enrich the model
 
@@ -48,9 +48,9 @@ item:
     description: >-
       * Be designated as Meritorious Winner
 
-      * Predict the sea surface temperature in next 50 years
+      * Predict the sea surface temperature in the next 50 years
 
-      * Speculate on how temperature changes affect fishery
+      * Speculate on how temperature changes will affect fishery
 
       * Provide fishermen with strategies from the perspective of long-term profit
 ---

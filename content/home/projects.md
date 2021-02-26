@@ -79,6 +79,8 @@ item:
   url: ""
   # 这里可以放上model的seq-to-seq的结构
   description: >- 
+    ![seq_pic](/img/seq_to_seq_model.png)
+
     * Melody Generation Using Seq2Seq Model with Attention
     
     * Recur a rather novel model in the task

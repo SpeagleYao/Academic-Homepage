@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: accomplishments
 # This file represents a page section.
 headless: true
 
@@ -11,30 +11,51 @@ weight: 30
 title: 'Research'
 subtitle:
 
-content:
-  # Page type to display. E.g. post, event, publication...
-  page_type: event
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 5
-  # Filter on criteria
-  filters:
-    author: ""
-    category: ""
-    tag: ""
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-    publication_type: ""
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+# Date format
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
-design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view: 2
+# Accomplishments.
+#   Add/remove as many `item` blocks below as you like.
+#   `title`, `organization`, and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
+item:
+- certificate_url: ''
+  date_end: "2020-11-30"
+  date_start: "2020-09-01"
+  organization: SJTU
+  organization_url: http://en.sjtu.edu.cn/
+  title: On Symmetry Property in Adversarial Examples
+  url: ""
+  # 打算在这里放上移一张2048游戏图 如果可以是gif那就更好了
+  description: >- 
+    * Discover an intriguing phenomenon in adversarial examples
+
+    * Design a novel loss function to improve robustness
+
+    * Achieve SOTA performance even compared to Adversarial Training
+
+    * Submit a paper to CVPR2021 as the third author
+
+    * Personal Contribution: Run most of experiments and propose the final version of loss function
+
+    * <a href="https://github.com/SpeagleYao/Symmetry-Property" target="_blank">Open Source Code</a> on Github
+
+- certificate_url: ''
+  date_end: "Present"
+  date_start: "2020-08-01"
+  organization: SJTU
+  organization_url: http://en.sjtu.edu.cn/
+  title: Identifying Influential Inputs in Probabilistic Logic Programming
+  url: ""
+  # 这里可以放上Atari Breakout Game 和 Mujoco 的图片
+  description: >- 
+    * Propose a provenance-based approach towards identifying influential inputs in PLP programs
+    
+    * Evaluate the system in a visual question answering scenario and demonstrate its effectiveness
+
+    * Ready to submit a paper to VLDB2021 as the fourth author
+
 ---
