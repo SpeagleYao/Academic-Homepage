@@ -31,9 +31,13 @@ item:
   title: Deep learning Specialization
   url: ""
   description: >- 
-    * Learn basic knowledge on DNN, CNN, RNN, etc.
+    * Learn basic knowledge of Neural Networks including DNN, CNN, RNN, etc.
+
+    * Learn how to set parameters correctly to improve accuracy
     
-    * Do [Code Project](#projects/Deep Learning Specialization) on Jupyter Notebook
+    * Learn basic knowlegde of Computer Vision and Natural language processing
+
+    * Do [Code Project](#projects) on Jupyter Notebook
 
   #certificate_url: https://www.edx.org
 - date_end: "2020-01-31"
@@ -43,7 +47,13 @@ item:
   title: Deep Learning and Its Applications
   url: http://thinklab.sjtu.edu.cn/teaching.html
   description: >- 
-    * Learn applications of DL in multiple fields and complete a project using RNN.
+    * Learn applications of DL in multiple fields
+
+    * Listen to lectures on cutting-edge techs in computer vision
+
+    * Complete the Assignment 1 \& 2 of [CS231n](http://cs231n.stanford.edu/assignments.html)
+
+    * Complete a [Project](#projects) using RNN to generate melody
 
 # certificate_url: https://www.datacamp.com
 - date_end: "2020-03-01"
@@ -53,7 +63,11 @@ item:
   title: Machine learning (AI)
   url: ""
   description: >- 
-    * Learn various of algorithms in ML and complete a project using DCNN models.
+    * Learn various of algorithms in ML
+
+    * Completed a code tutorial on how to use sklearn, Keras, PyTorch
+
+    * Complete a [Project](#projects) using DCNN models to play 2048 game
 
 - date_end: "2020-03-01"
   date_start: "2020-06-30"
@@ -62,6 +76,10 @@ item:
   title: Reinforcement Learning
   url: ""
   description: >- 
-    * Learn various of algorithms in RL and complete a project using DQN and PPO.
+    * Learn various of algorithms in RL
+
+    * Write code using taught algorithms to solve given problems
+
+    * Complete a [Project](#projects) using DQN and PPO to solve games
     
 ---
