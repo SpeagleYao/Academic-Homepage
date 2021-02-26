@@ -33,7 +33,7 @@ item:
   description: >- 
     * Learn basic knowledge on DNN, CNN, RNN, etc.
     
-    * Do [Code Project](#projects) on Jupyter Notebook
+    * Do [Code Project]({{ < relref "home/projects.md#Deep Learning Specialization" > }}) on Jupyter Notebook
 
   #certificate_url: https://www.edx.org
 - date_end: "2020-01-31"
@@ -63,5 +63,5 @@ item:
   url: ""
   description: >- 
     * Learn various of algorithms in RL and complete a project using DQN and PPO.
-    
+
 ---
