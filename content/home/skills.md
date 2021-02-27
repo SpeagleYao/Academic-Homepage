@@ -36,7 +36,7 @@ feature:
   name: Good at self-study
 
 - description: >-
-    Python, C/C++
+    Python, C/C++  
     
     Git, MATLAB, R
   icon: keyboard
