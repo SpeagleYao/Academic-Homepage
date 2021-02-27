@@ -34,9 +34,9 @@ item:
       ![sym_img](/img/symmetry_img.png)
       <br/>
       
-      * Discover an intriguing phenomenon in adversarial examples
+      * Discover an intriguing phenomenon called symmetry property in adversarial examples
 
-      * Design a novel loss function to improve robustness
+      * Design a novel loss function that constrain features to improve robustness
 
       * Achieve SOTA performance even compared to Adversarial Training
 
