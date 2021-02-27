@@ -70,9 +70,9 @@ My name is Yao Yiran, a junior undergraduate from Shanghai Jiao Tong University.
 
 I love thinking about how to solve hard but intriguing problems. Since my childhood, I have learned Mathematical Olympiad and participated in lots of math competitions. When I was in high school, I came across coding in class, which has the same fun as Math. Feeling obsessed, I learned C++, data structures, and algorithms by myself, and participated in Olympiad in Informatics. Thinking about these tricky problems and come up with exquisite solutions always give me enormous joy. It is during this period, with the gradual deepening understanding of my characteristics, I regard myself suitable for doing scientific research in the future.
 
-After entering college, I heard about AI. With sufficient mathematical knowledge, I learned Deep Learning Specialization on Coursera in my first summer vacation. I was arrested by the simplicity and powerfulness of AI. Thus, in the following year, I took several courses about AI in school and also read some AI-related articles and papers. I learned about Adversarial Learning and was deeply attracted by it. AI, so powerful as it looks on the surface, is also so fragile. If we can figure out why AI is fragile and how to make it robust, we may have a deeper understanding of how AI works.
+After entering college, I heard about AI. With sufficient mathematical knowledge, I learned Deep Learning Specialization on Coursera in my first summer vacation. I was arrested by the simplicity and powerfulness of AI. Thus, in the following year, I took several courses about AI in school and also read some AI-related articles and papers. I learned about Adversarial Learning and was deeply attracted by it. AI, so powerful as it looks on the surface, is so fragile as well. If we can figure out why AI is fragile and how to make it robust, we may have a deeper understanding of how AI works.
 
-At the beginning of my junior year, I began to research in adversarial learning. I started easily and smoothly due to my experience of participating in the Mathematical Contest in Modeling two times, the basic knowledge of AI, and exercises from all coding projects. It felt so refreshing thinking and doing experiments every day, watching the performance of models improve bit by bit. My will for pursuing a Ph.D. becomes more firmly.
+At the beginning of my junior year, I started to research in Adversarial Learning. I started easily and smoothly due to my experience of participating in the Mathematical Contest in Modeling two times, the basic knowledge of AI, and exercises from all coding projects. It feels so refreshing thinking and doing experiments every day, watching the performance of models improve bit by bit. My will for pursuing a Ph.D. becomes more firmly.
 
 Now, I have got a complete research experience in Adversarial Learning, in which I carried out experiments completely, and also participated in the design of the method and writing of the paper. I am currently still working in this field and looking forward to getting more research opportunities abroad.
 
@@ -82,4 +82,4 @@ Now, I have got a complete research experience in Adversarial Learning, in which
 
 You can also contact me to send you my score list.
 
-Updated 02/26/2021
+Updated 02/27/2021
