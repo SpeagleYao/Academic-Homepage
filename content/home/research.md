@@ -44,7 +44,7 @@ item:
 
       * Personal Contribution: Run most of the experiments and propose the final version of the loss function
 
-      * <a href="https://github.com/SpeagleYao/Symmetry-Property" target="_blank">Open Source Code</a> on Github
+      * <a href="https://github.com/SpeagleYao/Symmetry-Property" target="_blank">Open Source Code</a> on GitHub
 
   - organization: with Prof. Wenchao Zhou
     organization_url: 'http://people.cs.georgetown.edu/~wzhou/'
