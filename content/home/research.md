@@ -40,7 +40,9 @@ item:
 
       * Achieve SOTA performance even compared to Adversarial Training
 
-      * Submit the paper to CVPR2021 as the third author
+      * First submit the paper to CVPR2021 as the third author
+
+      * Currently submit the paper to ICCV2021 as the fourth author
 
       * Personal Contribution: Run most of the experiments and propose the final version of the loss function
 

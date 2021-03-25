@@ -74,7 +74,7 @@ After entering college, I heard about AI. With sufficient mathematical knowledge
 
 At the beginning of my junior year, I started to research in Adversarial Learning. I started easily and smoothly due to my experience of participating in the Mathematical Contest in Modeling two times, the basic knowledge of AI, and exercises from all coding projects. It feels so refreshing thinking and doing experiments every day, watching the performance of models improve bit by bit. My desire to pursue a Ph.D. becomes more firm.
 
-Now, I have got complete research experience in Adversarial Learning, in which I carried out experiments completely, and also participated in the design of the method and writing of the paper. I am currently still working in this field and looking forward to getting more research opportunities abroad.
+Now, I have got complete research experience in Adversarial Learning, in which I carried out experiments completely, and also participated in the design of the method and writing of a paper. I am currently still working in this field and looking forward to getting more research opportunities abroad.
 
 **To sum up, I love doing research. I am looking forward to becoming a Ph.D. student in the future.**
 
@@ -84,4 +84,4 @@ I am now having a remote visit to the University of Virginia, advised by [Prof. 
 
 You can also contact me to send you my score list.
 
-Updated 03/14/2021
+Updated 03/25/2021
