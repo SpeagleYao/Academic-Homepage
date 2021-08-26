@@ -34,9 +34,9 @@ item:
       ![sym_img](/img/symmetry_img.png)
       <br/>
       
-      * Discover an intriguing phenomenon called symmetry property in adversarial examples
+      * Discover *symmetry property* in adversarial examples
 
-      * Design a novel loss function that constrain features to improve robustness
+      * Design a novel loss function to improve robustness
 
       * Achieve SOTA performance even compared to Adversarial Training
 
@@ -44,7 +44,7 @@ item:
 
       # * Currently submit the paper to ICCV2021 as the fourth author
 
-      * Personal Contribution: Run most of the experiments and propose the final version of the loss function
+      * Personal Contribution: Run most of the experiments, propose the final version of the loss function, and participate in paper writing
 
       * <a href="https://github.com/SpeagleYao/Symmetry-Property" target="_blank">Open Source Code</a> on GitHub
 
@@ -60,10 +60,14 @@ item:
       ![plp_img](/img/plp_img.jpg)
       <br/>
       
-      * Propose a provenance-based approach towards identifying influential inputs in PLP programs
+      * Propose a provenance-based approach in PLP programs
 
-      * Evaluate the system in a visual question answering scenario and demonstrate its effectiveness
+      * Evaluate the system in two applications
 
-      * Ready to submit the paper to VLDB2021 as the fourth author
+      * Prove reasonable performances in practical scenarios
+
+      * Submit the paper to VLDB2021 as the fourth author
+
+      * Personal Contribution: Run parts of the experiments and participate in paper revising
 
 ---
