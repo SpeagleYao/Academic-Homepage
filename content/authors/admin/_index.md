@@ -28,6 +28,9 @@ education:
   - course: Undergraduate
     institution: Shanghai Jiao Tong University
     year: 2018-2022
+  - course: Summer Intern
+    institution: University of Virginia
+    year: 2021
 #   - course: MEng in Artificial Intelligence
 #     institution: Massachusetts Institute of Technology
 #     year: 2009
