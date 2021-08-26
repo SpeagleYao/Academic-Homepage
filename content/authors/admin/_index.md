@@ -78,9 +78,9 @@ My research interests have revolved around security in machine learning. To be s
  <!-- It feels so refreshing pondering and doing experiments every day and my desire to pursue a Ph.D. becomes more firm.  -->
 <!-- My research interests have revolved around security in machine learning. The world relies more and more on machine learning models, so it poses a severe challenge to the robustness of models. Besides, people are gradually more aware of the significance to protect personal privacy, while the current technical means have not yet given people proper ways to protect themselves. Therefore, I regard adversarial learning and data privacy as crucial topics and I want to explore more about them. -->
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_YaoYiran.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_YaoYiran.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}} and {{< staticref "media/Research_Statement_YaoYiran.pdf" "newtab" >}}Research Statement{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Research_Statement_YaoYiran.pdf" "newtab" >}}Research Statement{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Research_Statement_YaoYiran.pdf" "newtab" >}}Research Statement{{< /staticref >}}. -->
 
 You can also contact me to send you my score list.
 
