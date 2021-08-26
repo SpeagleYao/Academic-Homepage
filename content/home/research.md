@@ -77,7 +77,9 @@ item:
     date_end: '2021-09-01'
     description: >-
       
-      + Combine adversarial learning with cost-sensitive learning to defend targeted attack
+      + Use cost-sensitive techniques to defend targeted attack
+
+      + Obtain non-error models under specific targeted attack
 
       + Hold a group meeting that sharing papers within the whole lab
 
@@ -90,6 +92,8 @@ item:
     date_end: '2021-09-01'
     description: >-
 
-      + Find universal perturbations that defend against arbitrary face manipulations with arbitrary 
+      + Find universal perturbations that can defend against arbitrary face manipulations with arbitrary models
+
+      + Protect everyone's privacy at a lower cost in real-time
 
 ---
