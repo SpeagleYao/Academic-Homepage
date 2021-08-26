@@ -20,6 +20,7 @@ organizations:
 interests:
 - Adversarial Learning
 - Data Security
+- Robust ML
 
 # Education to show in About widget
 education:
