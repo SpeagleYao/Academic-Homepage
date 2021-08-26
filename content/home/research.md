@@ -44,7 +44,7 @@ item:
 
 #     * Currently submit the paper to ICCV2021 as the fourth author
 
-      * Personal Contribution: Run most of the experiments, propose the final version of the loss function, and participate in paper writing
+      * **Personal Contribution** - Run most of the experiments, propose the final version of the loss function, and participate in paper writing
 
       * <a href="https://github.com/SpeagleYao/Symmetry-Property" target="_blank">Open Source Code</a> on GitHub
 
@@ -68,6 +68,6 @@ item:
 
       * Submit the paper to VLDB2021 as the fourth author
 
-      * Personal Contribution: Run parts of the experiments and participate in paper revising
+      * **Personal Contribution** - Run parts of the experiments and participate in paper revising
 
 ---

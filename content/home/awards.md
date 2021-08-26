@@ -30,7 +30,7 @@ item:
     date_start: '2019-01-24'
     date_end: '2019-01-28'
     description: >-
-      * Be designated as Successful Participant
+      * Be designated as **Successful Participant**
 
       * Restore the possible ecology of dragons in reality
 
@@ -46,7 +46,7 @@ item:
     date_start: '2020-02-14'
     date_end: '2020-02-18'
     description: >-
-      * Be designated as Meritorious Winner
+      * Be designated as **Meritorious Winner**
 
       * Predict the sea surface temperature in the next 50 years
 
