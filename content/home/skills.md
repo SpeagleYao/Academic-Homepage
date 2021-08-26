@@ -45,14 +45,14 @@ feature:
 - description: >-
     Numpy, Matplotlib  
 
-    PyTorch, TensorFlow, Keras
+    PyTorch, Keras
   icon: python
   icon_pack: fab
   name: Python Libraries
 - description: >-
     Windows, MacOS, Ubuntu  
     
-    VS Code, Visual Studio, Jupyter Notebook
+    VS Code
   icon: laptop-code
   icon_pack: fas
   name: Environment
