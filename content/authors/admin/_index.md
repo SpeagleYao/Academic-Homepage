@@ -20,7 +20,7 @@ organizations:
 interests:
 - Adversarial Learning
 - Data Security
-- Robust ML
+- Robust ML in CV
 
 # Education to show in About widget
 education:
@@ -77,9 +77,7 @@ At the beginning of my junior year, I started to research in Adversarial Learnin
 
 My research interests have revolved around security in machine learning. The world relies more and more on machine learning models, so it poses a severe challenge to the robustness of models. Besides, people are more aware of the need to protect personal privacy, while the current technical means have not yet given people proper ways to protect themselves. Therefore, I regard adversarial learning and data privacy as crucial topics and I want to explore more about them.
 
-News: I am now having a summer remote visit to the University of Virginia, advised by [Prof. Evans](https://www.cs.virginia.edu/~evans/).
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/yaoyiran_cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_YaoYiran.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Research_Statement_YaoYiran.pdf" "newtab" >}}Research Statement{{< /staticref >}}.
 
