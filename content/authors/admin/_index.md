@@ -76,6 +76,7 @@ My research interests have revolved around security in machine learning. The wor
 News: I am now having a summer remote visit to the University of Virginia, advised by [Prof. Evans](https://www.cs.virginia.edu/~evans/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/yaoyiran_cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Research_Statement_YaoYiran.pdf" "newtab" >}}Research Statement{{< /staticref >}}.
 
 You can also contact me to send you my score list.
