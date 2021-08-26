@@ -65,6 +65,7 @@ item:
       + Prove reasonable performances in practical scenarios
 
       + **Paper Submission** to VLDB2021 as the fourth author
+      
       + **Personal Contribution** - Run parts of the experiments and participate in paper revising
 
   - organization: with Prof. Evans
@@ -90,6 +91,5 @@ item:
     description: >-
 
       + Find universal perturbations that defend against arbitrary face manipulations with arbitrary 
-
 
 ---
