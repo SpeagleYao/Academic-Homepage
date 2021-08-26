@@ -19,8 +19,7 @@ organizations:
 # Interests to show in About widget
 interests:
 - Adversarial Learning
-- Robustness in ML
-- Computer Vision
+- Data Security
 
 # Education to show in About widget
 education:
@@ -79,9 +78,10 @@ My research interests have revolved around security in machine learning.
 
 **To sum up, I love doing research. I am looking forward to becoming a Ph.D. student in the future.**
 
-News: I am now having a remote visit to the University of Virginia, advised by [Prof. Evans](https://www.cs.virginia.edu/~evans/).
+News: I am now having a summer remote visit to the University of Virginia, advised by [Prof. Evans](https://www.cs.virginia.edu/~evans/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/yaoyiran_cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Research_Statement_YaoYiran.pdf" "newtab" >}}Research Statement{{< /staticref >}}.
 
 You can also contact me to send you my score list.
 
