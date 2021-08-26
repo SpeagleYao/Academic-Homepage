@@ -77,11 +77,9 @@ item:
     date_end: 'Now'
     description: >-
       
-      + Discover *symmetry property* in adversarial examples
+      + Combine adversarial learning with cost-sensitive learning to defend targeted attack
 
-      + Design a novel loss function to improve robustness
-
-      + Achieve SOTA performance even compared to Adversarial Training
+      + Hold a group meeting that sharing papers within the whole lab
 
   - organization: with Prof. Ni
     organization_url: 'https://scholar.google.com/citations?hl=zh-CN\&user=eUbmKwYAAAAJ'
@@ -91,14 +89,8 @@ item:
     date_start: '2021-07-01'
     date_end: 'Now'
     description: >-
-      
-      + Combine adversarial learning with cost-sensitive learning to defend targeted attack
 
-      + Hold a group meeting that sharing papers within the whole lab
-
-      + Achieve SOTA performance even compared to Adversarial Training
-
-      + Submit the paper to CVPR2021 as the third author
+      + Find universal perturbations that defend against arbitrary face manipulations with arbitrary 
 
 
 ---
