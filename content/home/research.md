@@ -2,7 +2,7 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
-
+active: false
 # This file represents a page section.
 headless: true
 
@@ -65,7 +65,7 @@ item:
       + Prove reasonable performances in practical scenarios
 
       + **Paper Submission** to VLDB2021 as the fourth author
-      
+
       + **Personal Contribution** - Run parts of the experiments and participate in paper revising
 
   - organization: with Prof. Evans
