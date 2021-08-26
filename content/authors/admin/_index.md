@@ -65,18 +65,13 @@ highlight_name: false
 # 我所写的自我介绍最好全部能展现出和phd所需的相关特质
 ---
 
-My name is Yao Yiran, a senior undergraduate at Shanghai Jiao Tong University. **I am looking for a postion for Ph.D. students.**
+My name is Yao Yiran, a senior undergraduate at Shanghai Jiao Tong University. **I am looking for a position for Ph.D. students.**
 
-I love thinking about how to solve hard but intriguing problems. I have learned Mathematical Olympiad and Coding and have participated in lots of competitions before college. Thinking about these tricky problems and coming up with exquisite solutions always gives me enormous joy. It is during this period, with the gradual deepening understanding of my characteristics, I regard myself suitable for doing scientific research in the future.
-<!-- Since my childhood, I have learned Mathematical Olympiad and participated in lots of math competitions. When I was in high school, I came across coding in class, which has the same fun as Math. Feeling obsessed, I learned C++, data structures, and algorithms by myself, and participated in Olympiad in Informatics. Thinking about these tricky problems and coming up with exquisite solutions always gives me enormous joy. It is during this period, with the gradual deepening understanding of my characteristics, I regard myself suitable for doing scientific research in the future. -->
+I love the enormous joy when thinking about how to solve hard but intriguing problems. The experience of both math and coding competitions since childhood gave me a good habit of thinking. I was arrested for the simplicity and powerfulness of AI after entering college, so I learned Deep Learning Specialization on Coursera during my first summer vacation, and in the following year, I took several courses about AI in school and read some AI-related papers. That is when I learned about Adversarial Learning. AI, so powerful as it looks on the surface, is so vulnerable as well. If we can figure out why AI is vulnerable and how to make it robust, we may have a deeper understanding of how AI works, and more reassuring machine learning models can be obtained to be used in critical situations.
 
-After entering college, I was arrested for the simplicity and powerfulness of AI. I learned Deep Learning Specialization on Coursera during my first summer vacation, and in the following year, I took several courses about AI in school and read some AI-related papers. That is when I learned about Adversarial Learning. AI, so powerful as it looks on the surface, is so vulnerable as well. If we can figure out why AI is vulnerable and how to make it robust, we may have a deeper understanding of how AI works, and more reassuring machine learning models can be obtained to be used in critical situations.
+At the beginning of my junior year, I started to research in Adversarial Learning. It feels so refreshing thinking and doing experiments every day, watching the performance of models improve bit by bit. My desire to pursue a Ph.D. becomes more firm. Now, I have got complete research experience in Adversarial Learning, in which I carried out experiments completely and independently, and also participated in method design and paper writing. I am looking forward to getting more research opportunities abroad.
 
-At the beginning of my junior year, I started to research in Adversarial Learning. It feels so refreshing thinking and doing experiments every day, watching the performance of models improve bit by bit. My desire to pursue a Ph.D. becomes more firm. Now, I have got complete research experience in Adversarial Learning, in which I carried out experiments completely, and also participated in the design of the method and writing of a paper. I am currently still working in this field and looking forward to getting more research opportunities abroad.
-
-My research interests have revolved around security in machine learning.
-
-**To sum up, I love doing research. I am looking forward to becoming a Ph.D. student in the future.**
+My research interests have revolved around security in machine learning. The world relies more and more on machine learning models, so it poses a severe challenge to the robustness of models. Besides, people are more aware of the need to protect personal privacy, while the current technical means have not yet given people proper ways to protect themselves. Therefore, I regard adversarial learning and data privacy as crucial topics and I want to explore more about them.
 
 News: I am now having a summer remote visit to the University of Virginia, advised by [Prof. Evans](https://www.cs.virginia.edu/~evans/).
 
@@ -86,3 +81,6 @@ News: I am now having a summer remote visit to the University of Virginia, advis
 You can also contact me to send you my score list.
 
 Updated 08/26/2021
+
+<!-- I love thinking about how to solve hard but intriguing problems. I have learned Mathematical Olympiad and Coding and have participated in lots of competitions before college. Thinking about these tricky problems and coming up with exquisite solutions always gives me enormous joy. It is during this period, with the gradual deepening understanding of my characteristics, I regard myself suitable for doing scientific research in the future. -->
+<!-- Since my childhood, I have learned Mathematical Olympiad and participated in lots of math competitions. When I was in high school, I came across coding in class, which has the same fun as Math. Feeling obsessed, I learned C++, data structures, and algorithms by myself, and participated in Olympiad in Informatics. Thinking about these tricky problems and coming up with exquisite solutions always gives me enormous joy. It is during this period, with the gradual deepening understanding of my characteristics, I regard myself suitable for doing scientific research in the future. -->
