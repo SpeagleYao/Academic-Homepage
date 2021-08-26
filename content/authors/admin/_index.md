@@ -82,7 +82,7 @@ My research interests have revolved around security in machine learning. To be s
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Research_Statement_YaoYiran.pdf" "newtab" >}}Research Statement{{< /staticref >}}. -->
 
-You can also contact me to send you my score list.
+<!-- You can also contact me to send you my score list. -->
 
 Updated 08/26/2021
 
