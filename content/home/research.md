@@ -1,7 +1,7 @@
 ---
-# An instance of the Experience widget.
+# An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
+widget: accomplishments
 # active: false
 # This file represents a page section.
 headless: true
@@ -10,22 +10,23 @@ headless: true
 weight: 30
 
 title: 'Research'
-subtitle:
+subtitle: ''
 
-# Date format for experience
+# Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
+# Accomplishments.
+#   Add/remove as many `item` blocks below as you like.
+#   `title`, `organization`, and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: On Symmetry Property in Adversarial Examples
-    company: with Prof. Ni
-    company_url: 'https://scholar.google.com/citations?hl=zh-CN\&user=eUbmKwYAAAAJ'
-    location: Shanghai Jiao Tong University
+item:
+  - organization: with Prof. Ni
+    organization_url: 'https://scholar.google.com/citations?hl=zh-CN\&user=eUbmKwYAAAAJ'
+    title: On Symmetry Property in Adversarial Examples
+    url: ''
+    certificate_url: ''
     date_start: '2020-09-01'
     date_end: '2020-11-30'
     description: >-
@@ -44,11 +45,12 @@ experience:
       + **Personal Contribution** - Run most of the experiments, propose the final version of the loss function, and participate in paper writing
 
       + <a href="https://github.com/SpeagleYao/Symmetry-Property" target="_blank">Open Source Code</a> on GitHub
-        
-  - title: Identifying Influential Inputs in Probabilistic Logic Programming
-    company: with Prof. Zhou
-    company_url: 'http://people.cs.georgetown.edu/~wzhou/'
-    location: Georgetown University
+
+  - organization: with Prof. Zhou
+    organization_url: 'http://people.cs.georgetown.edu/~wzhou/'
+    title: Identifying Influential Inputs in Probabilistic Logic Programming
+    url: ''
+    certificate_url: ''
     date_start: '2020-08-01'
     date_end: '2021-03-01'
     description: >-
@@ -66,10 +68,11 @@ experience:
 
       + **Personal Contribution** - Run parts of the experiments and participate in paper revising
 
-  - title: Combination of adversarial learning and cost-sensitive learning
-    company: with Prof. Evans
-    company_url: 'https://www.cs.virginia.edu/~evans/'
-    location: University of Virginia
+  - organization: with Prof. Evans
+    organization_url: 'https://www.cs.virginia.edu/~evans/'
+    title: Combination of adversarial learning and cost-sensitive learning
+    url: ''
+    certificate_url: ''
     date_start: '2021-03-01'
     date_end: '2021-09-01'
     description: >-
@@ -78,35 +81,15 @@ experience:
 
       + Hold a group meeting that sharing papers within the whole lab
 
-  - title: Universal perturbations for GANs
-    company: with Prof. Ni
-    company_url: 'https://scholar.google.com/citations?hl=zh-CN\&user=eUbmKwYAAAAJ'
-    location: Shanghai Jiao Tong University
+  - organization: with Prof. Ni
+    organization_url: 'https://scholar.google.com/citations?hl=zh-CN\&user=eUbmKwYAAAAJ'
+    title: Universal perturbations for GANs
+    url: ''
+    certificate_url: ''
     date_start: '2021-07-01'
     date_end: '2021-09-01'
     description: >-
 
       + Find universal perturbations that defend against arbitrary face manipulations with arbitrary 
 
-# experience:
-#   - title: CEO
-#     company: GenCoin
-#     company_url: ''
-#     location: California
-#     date_start: '2017-01-01'
-#     date_end: ''
-#     description: |2-
-#         Responsibilities include:
-        
-#         * Analysing
-#         * Modelling
-#         * Deploying
-        
-#   - title: Professor
-#     company: University X
-#     company_url: ''
-#     location: California
-#     date_start: '2016-01-01'
-#     date_end: '2016-12-31'
-#     description: Taught electronic engineering and researched semiconductor physics.
 ---
