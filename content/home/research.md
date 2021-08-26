@@ -52,7 +52,7 @@ item:
     url: ''
     certificate_url: ''
     date_start: '2020-08-01'
-    date_end: '2021-02-26'
+    date_end: '2021-03-01'
     description: >-
 
       ![plp_img](/img/plp_img.jpg)
@@ -65,7 +65,6 @@ item:
       + Prove reasonable performances in practical scenarios
 
       + **Paper Submission** to VLDB2021 as the fourth author
-
       + **Personal Contribution** - Run parts of the experiments and participate in paper revising
 
   - organization: with Prof. Evans
@@ -74,7 +73,7 @@ item:
     url: ''
     certificate_url: ''
     date_start: '2021-03-01'
-    date_end: 'Now'
+    date_end: '2021-09-01'
     description: >-
       
       + Combine adversarial learning with cost-sensitive learning to defend targeted attack
@@ -87,7 +86,7 @@ item:
     url: ''
     certificate_url: ''
     date_start: '2021-07-01'
-    date_end: 'Now'
+    date_end: '2021-09-01'
     description: >-
 
       + Find universal perturbations that defend against arbitrary face manipulations with arbitrary 
