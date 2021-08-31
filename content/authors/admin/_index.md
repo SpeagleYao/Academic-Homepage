@@ -84,7 +84,7 @@ My research interests have revolved around security in machine learning. To be s
 
 <!-- You can also contact me to send you my score list. -->
 
-Updated 08/26/2021
+Updated 09/01/2021
 
 <!-- I love thinking about how to solve hard but intriguing problems. I have learned Mathematical Olympiad and Coding and have participated in lots of competitions before college. Thinking about these tricky problems and coming up with exquisite solutions always gives me enormous joy. It is during this period, with the gradual deepening understanding of my characteristics, I regard myself suitable for doing scientific research in the future. -->
 <!-- Since my childhood, I have learned Mathematical Olympiad and participated in lots of math competitions. When I was in high school, I came across coding in class, which has the same fun as Math. Feeling obsessed, I learned C++, data structures, and algorithms by myself, and participated in Olympiad in Informatics. Thinking about these tricky problems and coming up with exquisite solutions always gives me enormous joy. It is during this period, with the gradual deepening understanding of my characteristics, I regard myself suitable for doing scientific research in the future. -->
